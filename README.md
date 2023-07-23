@@ -4,7 +4,7 @@ This markdown will list down all the challenges and their solution files. Feel f
 ## Excel Challenge 1
 [Post](https://www.linkedin.com/posts/excelbi_excel-excelchallenge-excelsolution-activity-6965972649277624320-yXe7/)<br/>
 [Practice File](https://lnkd.in/gcSHvCSG)<br/>
-[Solution File](Solutions%5CChallenge1%20solution.xlsm)<br/>
+[Solution File](Solutions%2FChallenge1%20solution.xlsm)<br/>
 
 ## Excel Challenge 2
 [Post](https://www.linkedin.com/posts/excelbi_excel-advancedexcel-excelchallenge-activity-6966623632219336704-Fkr7/)<br/>
